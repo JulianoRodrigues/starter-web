@@ -16,6 +16,8 @@ This is a simple web project, deployment can be any web server or even local fil
 
 ## How to Contribute
 
+Please fork this repo
+
 ### Copyright
 
 2020 Git Course
