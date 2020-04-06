@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 Adding a line for rebasing example
 
+More changes from myfeature branch
+
 ## Introduction
 
 This is example is to show different parts of th Git repository and various commands using a web project
