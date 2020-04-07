@@ -24,4 +24,4 @@ Please fork this repo
 
 ### Copyright
 
-2020 Git Course
+2020 Git Course. All rights reserved
